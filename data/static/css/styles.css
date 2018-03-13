@@ -1,0 +1,31 @@
+.main-header {
+  background-color: #f31111;
+  color: white;
+  height: 35%;
+}
+
+.nav-container {
+  padding: 25px 50px 25px 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.logo-container {
+  line-height: 0.8;
+  font-size: 24px;
+}
+.logo-container p {
+  text-align: center;
+}
+
+.logo-minor {
+  text-transform: uppercase;
+  letter-spacing: 5.4px;
+  font-size: 14px;
+}
+
+.login-btn {
+  color: white;
+  text-transform: uppercase;
+}
